@@ -1,4 +1,8 @@
 _repo: Lettres-a-Mademoiselle-de-Volland_50605
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50605-h/images/cover.jpg
 creator:
   author:
     agent_name: Diderot, Denis
@@ -11,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Denis_Diderot
     - http://fr.wikipedia.org/wiki/Denis_Diderot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50605#Lettres-a-Mademoiselle-de-Volland
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Biographie, Mémoires, Journal intime, Correspondance
